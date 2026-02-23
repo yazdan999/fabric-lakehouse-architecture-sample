@@ -1,5 +1,19 @@
-# Architecture Diagram
+# Lakehouse Architecture Diagram
 
-Bronze → Silver → Gold layered architecture.
+Source Systems
+↓
+Bronze Layer
+↓
+Silver Layer
+↓
+Gold Layer
+↓
+Analytics / Reporting
 
-Designed for scalable Microsoft Fabric implementations.
+### Design Principles
+
+- Layered data separation
+- Immutable raw ingestion
+- Controlled transformations
+- Analytics-optimised datasets
+- CI/CD-driven deployment

@@ -42,6 +42,7 @@ The design focuses on:
 
 ## Repository Structure
 
+```
 fabric-lakehouse-architecture-sample/
 │
 ├── bronze/
@@ -60,6 +61,7 @@ fabric-lakehouse-architecture-sample/
 │
 └── docs/
 └── architecture_diagram.md
+```
 
 ---
 

@@ -1,0 +1,15 @@
+# Sample CI/CD Deployment Pipeline
+
+name: Deploy Fabric Lakehouse
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3

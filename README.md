@@ -1,5 +1,7 @@
 # Microsoft Fabric Lakehouse Architecture Sample
 
+[![CI](https://github.com/yazdan999/fabric-lakehouse-architecture-sample/actions/workflows/ci.yml/badge.svg)](https://github.com/yazdan999/fabric-lakehouse-architecture-sample/actions/workflows/ci.yml)
+
 Enterprise-style lakehouse architecture using Microsoft Fabric and Delta Lake.
 
 ---
